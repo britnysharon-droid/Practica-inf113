@@ -1,0 +1,16 @@
+main {
+  padding: 20px;
+  text-align: left;
+  max-width: 600px;
+  margin: auto;
+}
+
+button {
+  background: #0b74ff;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+ul { margin-left: 20px; }

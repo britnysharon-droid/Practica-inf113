@@ -1,0 +1,42 @@
+.hero {
+  background: url('../images/hero.jpg') ;
+  color: white;
+  padding: 70px 30px;
+  height: 240px;
+}
+
+.hero form {
+  margin-top: 10px;
+}
+p{
+   color: darkgrey;
+}
+.hero input {
+  padding: 8px;
+  width: 70%;
+  max-width: 300px;
+}
+
+.hero button {
+  padding: 8px 15px;
+  background: white;
+  border: none;
+  color: #0b74ff;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  color: black;
+  
+}
+
+.card {
+  background: #f3f3f3;
+  padding: 15px;
+  border-radius: 10px;
+  width: 150px;
+}
